@@ -8,6 +8,6 @@ function App() {
   <>
   <h1>Hello from React Ts App</h1>
   </>
-  )
-}
+  );
+};
 export default App;
